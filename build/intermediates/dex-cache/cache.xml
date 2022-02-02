@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android mini\android-student-marks-calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\android mini\android-student-marks-calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_904483a04539d5acbd3fcb4352116e5eb699a79f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android mini\android-student-marks-calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\android mini\android-student-marks-calculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_285193983bf1fe9965b629b2f477c0139b86cc15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\projectwolds\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\22.0.0\685d0b2c590447e85284ed84712cb363ba04eff8\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\android mini\android-student-marks-calculator\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_e6a5cfbc9a9fca27b86ff4719845e64e6732f6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android mini\android-student-marks-calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\android mini\android-student-marks-calculator\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_a2b9fb9cf64501220a26cd2a25c4ab69c3bb2446.jar" />
+    </item>
+
+</items>
